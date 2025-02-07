@@ -34,13 +34,13 @@
 
 <div align="center">
     <h3> Connect with Me </h3>
-  <a href="mailto:shubhamchat224122@gmail.com">
+  <a href="mailto:surajkr.gupt23@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
  </a>
- <a href="https://www.linkedin.com/in/shubhamchat03/" target="_blank">
+ <a href="https://www.linkedin.com/in/suraj-kr-gupta/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
  </a>
- <a href="https://x.com/shubham_1947" target="_blank">
+ <a href="https://x.com/Surajkrgupta23" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" target="_blank"/>
  </a> 
  <a href="https://dev.to/shubhamc1947" target="_blank">
