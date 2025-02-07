@@ -50,24 +50,13 @@
   Languages and Tools <br />
   <br />
 </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,js,php,mysql,cs,nodejs,react,matlab,eclipse,figma,git,github,netlify,vim,notion,arduino,linux,kali,ubuntu,bash,powershell,vscode,mongodb,mysql,tailwind,ts,devto,discord,express,figma,git,github,postman,redux,sass,visualstudio,vite,vscode,py,fastapi"
-    />
-  </a>
-</p>
-
 <br />
 <hr /> 
 
-
-
 <h1></h1>
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=shubhamc1947&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=-1">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhamc1947&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=-1" alt="shubhamc1947" />
+  <a href="https://github-profile-trophy.vercel.app/?username=Surajkrgupta23&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=-1">
+    <img src="https://github-profile-trophy.vercel.app/?username=Surajkrgupta23&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=-1" alt="Surajkrgupta23" />
   </a>
 </p>
 
@@ -79,15 +68,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake-dark.svg"
+        srcset="https://raw.githubusercontent.com/Surajkrgupta23/Surajkrgupta23/output/github-contribution-grid-snake-dark.svg"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake.svg"
+        srcset="https://raw.githubusercontent.com/Surajkrgupta23/Surajkrgupta23/output/github-contribution-grid-snake.svg"
       />
       <img
         alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake.svg"
+        src="https://raw.githubusercontent.com/Surajkrgupta23/Surajkrgupta23/output/github-contribution-grid-snake.svg"
       />
     </picture>
   
@@ -95,4 +84,4 @@
 </div>
 
 
-<!-- ![snake gif](https://github.com/shubhamc1947/shubhamc1947/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![snake gif](https://github.com/Surajkrgupta23/Surajkrgupta23/blob/output/github-contribution-grid-snake.svg) -->
