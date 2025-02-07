@@ -43,15 +43,6 @@
  <a href="https://x.com/Surajkrgupta23" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" target="_blank"/>
  </a> 
- <a href="https://dev.to/shubhamc1947" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" target="_blank"/>
- </a>
- <a href="https://www.codechef.com/users/shubham_1947" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" target="_blank"/>
- </a>
- <a href="https://www.leetcode.com/shubham_1947" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"/>
- </a>
 </div>
 <hr />
 
