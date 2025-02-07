@@ -1,5 +1,6 @@
 
-(https://github.com/Surajkrgupta23/Surajkrgupta23/blob/main/suraj_cover.png)
+![Suraj's Cover](https://github.com/Surajkrgupta23/personal-content/blob/main/Images/suraj_cover.png)
+
 
 <p align="right">
   <img
