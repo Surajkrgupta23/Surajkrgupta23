@@ -1,5 +1,5 @@
 
-![aa59d139b93dde70ff207187c9f1d8bd-ezgif com-crop](https://github.com/user-attachments/assets/7220490d-c6ee-41f7-8203-cca95232f249)
+(https://github.com/Surajkrgupta23/Surajkrgupta23/blob/main/suraj_cover.png)
 
 <p align="right">
   <img
