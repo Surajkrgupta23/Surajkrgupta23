@@ -14,12 +14,8 @@
     src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Bold&size=35&duration=3000&pause=500&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Shubham"
   />
 </h1>
-<h3
-  align="center"
-  style="font-family: Arial, Helvetica, sans-serif; font-weight: 400"
->
-  I'm passionate about using code to create innovative solutions. Let's work
-  together and make it happen!
+<h3 align="center" style="font-family: Arial, Helvetica, sans-serif; font-weight: 400" >
+  I'm driven by the desire to craft innovative solutions through coding - let's create something remarkable together!
 </h3>
 <hr />
 
