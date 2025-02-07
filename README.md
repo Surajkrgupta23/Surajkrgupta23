@@ -79,19 +79,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=shubhamc1947&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=-1" alt="shubhamc1947" />
   </a>
 </p>
-<hr/>
-
-
-<h2 align="center">⚡ Stats ⚡<br> <br/> </h2>
-<br>
-<div align=center>
-  <img width=352  src="https://github-readme-stats.vercel.app/api?username=shubhamc1947&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="shubhamc1947" />
-
-  <img width=278  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamc1947&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="shubhamc1947" />
-
-  <img width=412 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamc1947&theme=dark&hide_border=false" alt="shubhamc1947" style="vertical-align: top;" />
-<br>
-</div>
 
 <hr/>
 
