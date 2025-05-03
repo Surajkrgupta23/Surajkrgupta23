@@ -71,10 +71,7 @@
         media="(prefers-color-scheme: light)"
         srcset="https://raw.githubusercontent.com/Surajkrgupta23/Surajkrgupta23/output/github-contribution-grid-snake.svg"
       />
-      <img
-        alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/Surajkrgupta23/Surajkrgupta23/output/github-contribution-grid-snake.svg"
-      />
+      
     </picture>
   
   <br/>
